@@ -37,6 +37,7 @@
 |Name|Description|Link|
 |-|-|-|
 |Anna’s Archive|"Anna’s Archive is a non-profit, open-source search engine for “shadow libraries”. It was created by Anna, the person behind the Pirate Library Mirror, which is a backup of the Z-Library shadow library. She felt that there was a need for a central place to search for books, papers, comics, magazines, and other documents."|https://annas-archive.org/|
+|The Anarchist Library|"An archive focusing on anarchism, anarchist texts, and texts of interest for anarchists."|https://theanarchistlibrary.org/|
 
 ### Scientific Articles/Research Papers
 |Name|Description|Link|
