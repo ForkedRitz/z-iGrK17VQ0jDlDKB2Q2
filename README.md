@@ -7,7 +7,7 @@
 |PDF Drive|"PDF Drive is a free search engine which allows you to search, preview and download millions of PDF files into your devices."|https://www.pdfdrive.com/|
 |Zlibrary.to|"Z library is a free online library containing over 100 million books. Anyone can download e-books from our website without registration and in many formats."|https://zlibrary.to/|
 |Ebook3000|"ebook3000.com is the best free ebooks download library. It's the open directory for free ebooks and download links, and the best place to read ebooks and search free download ebooks."|http://ebook3000.com/|
-|SoftArchive|"SoftArchive or SA is a scene release website, more known for new release of software, games, music, movies, and eBooks. SoftArchive was launched in year 2004 and managed by team around the world."|https://softarchive.is/|
+|SoftArchive|"SoftArchive or SA is a scene release website, more known for new release of software, games, music, movies, and eBooks. SoftArchive was launched in year 2004 and managed by team around the world."|https://softarchive.is/books/|
 
 ### Scientific Articles/Research Papers
 |Name|Description|Link|
