@@ -21,7 +21,6 @@
 ### Ebooks
 |Platform|Name|Description|Link|
 |-|-|-|-|
-|Android|Aurora|"Aurora is a non-official Library Genesis (Libgen) Android mobile client."|https://github.com/FunkyMuse/Aurora|
 |Windows|Libgen Desktop|"Libgen Desktop is a Windows application for browsing a local copy of LibGen catalog."|https://wiki.mhut.org/software:libgen_desktop|
 
 ### Scientific Articles/Research Papers
